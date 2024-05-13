@@ -1,6 +1,15 @@
+body{
+  background-color: #363333;
+}
+
 ol,
 ul {
   list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
 }
 
 .app-wrapper {
@@ -18,7 +27,7 @@ ul {
 
 .app-wrapper-content {
   grid-area: c;
-  background-color: #37db8f;
+  background-color: #1d965e;
 }
 
 .app-wrapper-content img {
