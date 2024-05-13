@@ -1,7 +1,11 @@
 .item {
-  color: blue;
+  display: flex;
+  align-items: center;
+  color: #363333;
 }
 
 .item img {
   width: 50px;
 }
+
+
